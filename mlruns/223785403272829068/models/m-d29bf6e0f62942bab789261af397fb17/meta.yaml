@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/KIIT/PycharmProjects/PythonProject/DjangoFullStack/Portfolio/MLops/mlruns/223785403272829068/models/m-d29bf6e0f62942bab789261af397fb17/artifacts
+creation_timestamp: 1753807627476
+experiment_id: '223785403272829068'
+last_updated_timestamp: 1753807633015
+model_id: m-d29bf6e0f62942bab789261af397fb17
+model_type: null
+name: model
+source_run_id: 7bcf4b58efc0406888aaf131a9428712
+status: 2
+status_message: null
